@@ -16,7 +16,7 @@
 ###
 
 <div align="left">
-  <a href="[https://abinesh1702.github.io/portfolio/](https://abinesh1702.github.io/portfolio-website/)" target="_blank">
+  <a href="https://abinesh1702.github.io/portfolio-website/" target="_blank">
   <a href="" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5041/5041153.png" width="60" height="60" alt="web logo"  />
   </a>
