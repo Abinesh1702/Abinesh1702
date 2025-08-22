@@ -3,10 +3,10 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 */12 * * *" # Runs every 12 hours
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
 
 permissions:
-  contents: write   # 👈 Must be here (top-level)
+  contents: write   # required for pushing
 
 jobs:
   build:
@@ -23,7 +23,7 @@ jobs:
           outputs: dist/snake.svg
 
       - name: Push Snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4   # ✅ use latest
         with:
           target_branch: output
           build_dir: dist
