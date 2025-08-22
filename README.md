@@ -1,3 +1,5 @@
+![snake gif](https://github.com/abinesh/abinesh/blob/output/github-contribution-grid-snake.svg)
+
 # 💫 Hi, I'm Abinesh! 👋  
 
 I'm a **Software Developer** with **1 year of experience**, passionate about building scalable applications, solving problems, and continuously learning new technologies. 🚀  
