@@ -1,6 +1,7 @@
 <!-- 🐍 Contribution Snake -->
 ![Snake animation](https://github.com/Abinesh1702/Abinesh1702/blob/output/snake.svg)
 
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abinesh+👋;Software+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+JavaScript;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 </h1>
