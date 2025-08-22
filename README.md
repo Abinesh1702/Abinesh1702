@@ -56,7 +56,7 @@ I'm **Abinesh**, a passionate **Software Developer** with **1 year of experience
 
 ## 🌟 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://in.linkedin.com/in/abinesh-v-7496b32b2?trk=people-guest_people_search-card)/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://in.linkedin.com/in/abinesh-v-7496b32b2/))  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abineshvijayakumar12@gmail.com)  
 
