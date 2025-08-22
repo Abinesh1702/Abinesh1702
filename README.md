@@ -1,31 +1,32 @@
-![snake gif](https://github.com/abinesh/abinesh/blob/output/github-contribution-grid-snake.svg)
+<!-- 🐍 Contribution Snake -->
+![Snake animation](https://github.com/Abinesh1702/Abinesh1702/blob/output/snake.svg)
 
-# 💫 Hi, I'm Abinesh! 👋  
-
-I'm a **Software Developer** with **1 year of experience**, passionate about building scalable applications, solving problems, and continuously learning new technologies. 🚀  
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abinesh+👋;Software+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+JavaScript;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+</h1>
 
 ---
 
-## 🧑‍💻 About Me  
-- 🌱 Currently exploring **Advanced Django & REST APIs**  
-- 💡 Love working on **full-stack applications**  
-- 🎯 Goal: To grow as a **backend + full stack developer**  
-- ⚡ Fun fact: I enjoy making my code look clean and my UI look cute ✨  
+## 💫 About Me  
+
+I'm **Abinesh**, a passionate **Software Developer** with **1 year of experience**, who loves building scalable applications, solving problems, and exploring new technologies 🚀  
+
+- 🌱 Currently learning **Advanced Django & REST APIs**  
+- 💡 Interested in **full-stack development**  
+- 🎯 Goal: Becoming a strong **backend + full stack engineer**  
+- ⚡ Fun fact: I love making my UI look **cute & clean** ✨  
 
 ---
 
 ## 🔧 Tech Stack  
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Abinesh;Software+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+JS+%7C+C" alt="Typing SVG" />
-</h1>
 
-### 🖥️ Programming Languages  
+### 🖥️ Languages & Frameworks  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 
 ### 🌐 Web Development  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
@@ -35,19 +36,18 @@ I'm a **Software Developer** with **1 year of experience**, passionate about bui
 
 ## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=abinesh&show_icons=true&theme=radical)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=abinesh&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abinesh&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abinesh1702&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinesh1702&layout=compact&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinesh1702&theme=radical" alt="streak stats" height="165"/>
+</p>
 
 ---
 
-## 🐍 Contribution Snake  
-
-![snake gif](https://github.com/abinesh/abinesh/blob/output/github-contribution-grid-snake.gif)
-
----
-
-## 🌟 Let's Connect  
+## 🌟 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  
