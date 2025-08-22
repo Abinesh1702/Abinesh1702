@@ -15,6 +15,9 @@ I'm a **Software Developer** with **1 year of experience**, passionate about bui
 ---
 
 ## 🔧 Tech Stack  
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Abinesh;Software+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+JS+%7C+C" alt="Typing SVG" />
+</h1>
 
 ### 🖥️ Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
