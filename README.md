@@ -1,18 +1,4 @@
-<!-- 🐍 Contribution Snake -->
-![Snake animation](https://github.com/Abinesh1702/Abinesh1702/blob/output/snake.svg)
 
-
-
-
-<h1 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=900&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abinesh+V+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+JavaScript+%7C+C;Clean+UI+lover+%E2%9C%A8+Always+Learning"
-    alt="Typing SVG"
-  />
-</h1>
-
-
----
 
 ## 💫 About Me  
 
